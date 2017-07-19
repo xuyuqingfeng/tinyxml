@@ -1,0 +1,43 @@
+﻿  tinyxmlparser.cpp
+  tinyxmlerror.cpp
+  tinyxml.cpp
+  tinystr.cpp
+  main.cpp
+c:\visual studio 2013 product\tinyxml_test\tinyxml_test\main.cpp : warning C4819: The file contains a character that cannot be represented in the current code page (936). Save the file in Unicode format to prevent data loss
+c:\visual studio 2013 product\tinyxml_test\tinyxml_test\main.cpp(82): error C2065: 'StuElement' : undeclared identifier
+c:\visual studio 2013 product\tinyxml_test\tinyxml_test\main.cpp(83): error C2065: 'StuElement' : undeclared identifier
+c:\visual studio 2013 product\tinyxml_test\tinyxml_test\main.cpp(83): error C2227: left of '->NextSiblingElement' must point to class/struct/union/generic type
+          type is 'unknown-type'
+c:\visual studio 2013 product\tinyxml_test\tinyxml_test\main.cpp(83): error C2059: syntax error : ')'
+c:\visual studio 2013 product\tinyxml_test\tinyxml_test\main.cpp(85): error C2146: syntax error : missing ';' before identifier 'cout'
+c:\visual studio 2013 product\tinyxml_test\tinyxml_test\main.cpp(85): error C2065: 'StuElement' : undeclared identifier
+c:\visual studio 2013 product\tinyxml_test\tinyxml_test\main.cpp(85): error C2227: left of '->Value' must point to class/struct/union/generic type
+          type is 'unknown-type'
+c:\visual studio 2013 product\tinyxml_test\tinyxml_test\main.cpp(86): error C2065: 'StuElement' : undeclared identifier
+c:\visual studio 2013 product\tinyxml_test\tinyxml_test\main.cpp(86): error C2227: left of '->FirstAttribute' must point to class/struct/union/generic type
+          type is 'unknown-type'
+c:\visual studio 2013 product\tinyxml_test\tinyxml_test\main.cpp(91): error C2143: syntax error : missing ';' before '<<'
+c:\visual studio 2013 product\tinyxml_test\tinyxml_test\main.cpp(91): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+c:\visual studio 2013 product\tinyxml_test\tinyxml_test\main.cpp(94): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+c:\visual studio 2013 product\tinyxml_test\tinyxml_test\main.cpp(95): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+c:\visual studio 2013 product\tinyxml_test\tinyxml_test\main.cpp(95): error C2086: 'int sonElement' : redefinition
+          c:\visual studio 2013 product\tinyxml_test\tinyxml_test\main.cpp(94) : see declaration of 'sonElement'
+c:\visual studio 2013 product\tinyxml_test\tinyxml_test\main.cpp(95): error C2227: left of '->NextSiblingElement' must point to class/struct/union/generic type
+          type is 'int'
+c:\visual studio 2013 product\tinyxml_test\tinyxml_test\main.cpp(95): error C2059: syntax error : ')'
+c:\visual studio 2013 product\tinyxml_test\tinyxml_test\main.cpp(97): error C2872: 'cout' : ambiguous symbol
+          could be 'c:\visual studio 2013 product\tinyxml_test\tinyxml_test\main.cpp(91) : int cout'
+          or       'c:\program files (x86)\microsoft visual studio 12.0\vc\include\iostream(27) : std::ostream std::cout'
+c:\visual studio 2013 product\tinyxml_test\tinyxml_test\main.cpp(97): error C2227: left of '->FirstChild' must point to class/struct/union/generic type
+          type is 'int'
+c:\visual studio 2013 product\tinyxml_test\tinyxml_test\main.cpp(97): error C2227: left of '->Value' must point to class/struct/union/generic type
+c:\visual studio 2013 product\tinyxml_test\tinyxml_test\main.cpp(97): error C2143: syntax error : missing '}' before ';'
+c:\visual studio 2013 product\tinyxml_test\tinyxml_test\main.cpp(98): error C2059: syntax error : '}'
+c:\visual studio 2013 product\tinyxml_test\tinyxml_test\main.cpp(98): error C2143: syntax error : missing ';' before '}'
+c:\visual studio 2013 product\tinyxml_test\tinyxml_test\main.cpp(99): error C2143: syntax error : missing ';' before '}'
+c:\visual studio 2013 product\tinyxml_test\tinyxml_test\main.cpp(99): error C2059: syntax error : '}'
+c:\visual studio 2013 product\tinyxml_test\tinyxml_test\main.cpp(102): error C2059: syntax error : '}'
+c:\visual studio 2013 product\tinyxml_test\tinyxml_test\main.cpp(102): error C2143: syntax error : missing ';' before '}'
+c:\visual studio 2013 product\tinyxml_test\tinyxml_test\main.cpp(105): error C2143: syntax error : missing ';' before '{'
+c:\visual studio 2013 product\tinyxml_test\tinyxml_test\main.cpp(105): error C2447: '{' : missing function header (old-style formal list?)
+  Generating Code...

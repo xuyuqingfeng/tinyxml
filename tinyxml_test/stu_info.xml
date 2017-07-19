@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UFT-8" standalone="yes" ?>
+<Strategy>
+	<Strategy_name name="BladeFinish">
+		<Method name = "method">
+			<Method_type name="method_type" para1="main" para2="left" para3="right"/>
+			<Cutting_type name="cutting_type" para1="main" para2="left" para3="right"/>
+		</Method>
+	</Strategy_name>
+</Strategy>
